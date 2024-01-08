@@ -1,1 +1,0 @@
-The inputted value is: 10
